@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+.Top1 a{
+    text-decoration: none;
+    color: #444444;
+    font: 16px Prompt, sans-serif;
+}
+.top1-active a{
+    color: #FFC107;
+}
+nav ul li{
+    padding: 8px 12px;
+}
+.top2{
+    font: 16px Prompt, sans-serif;
+    color: #444444;
+}
+.top0 img{
+    width: 25px;
+}
+.top1 img{
+    width: 70px;
+}
+.Top0, .Top2{
+    width: 100px;
+}
+.Banner img{
+    width: 100%;
+}
+.H1{
+    color: #212529;
+    text-align: center;
+    font: 33px Arial, Helvetica, Prompt, sans-serif;
+    margin: 20px 0px;
+}
+.H2{
+    color: #ABABAB;
+    font: 16px Prompt, sans-serif;
+    text-align: center;
+    margin: 20px 0px;
+}
+.H2 .Home {
+    color: #ABABAB;
+    text-decoration: none;
+    font: 16px Prompt, sans-serif;
+}
+.H2 .MY-Blog{
+    color: #ABABAB;
+    text-decoration: none;
+    font: 16px Prompt, sans-serif;
+}
